@@ -1,0 +1,3 @@
+{
+  "singleton_implementation": "public class DatabaseConnection {\n    private static DatabaseConnection instance;\n    private DatabaseConnection() {}\n    public static synchronized DatabaseConnection getInstance() {\n        if (instance == null) {\n            instance = new DatabaseConnection();\n        }\n        return instance;\n    }\n}\n"
+}

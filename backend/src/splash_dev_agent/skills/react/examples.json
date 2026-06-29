@@ -1,0 +1,3 @@
+{
+  "counter_hook": "import React, { useState } from 'react';\n\nexport const Counter = () => {\n    const [count, setCount] = useState(0);\n    return <button onClick={() => setCount(count + 1)}>Count: {count}</button>;\n};\n"
+}

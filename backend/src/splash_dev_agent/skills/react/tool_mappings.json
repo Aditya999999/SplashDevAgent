@@ -1,0 +1,6 @@
+{
+  "read_file": "read_workspace_file",
+  "write_file": "write_workspace_file",
+  "run_test": "npm test",
+  "run_lint": "npm run lint"
+}

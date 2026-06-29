@@ -1,0 +1,6 @@
+{
+  "read_file": "read_workspace_file",
+  "write_file": "write_workspace_file",
+  "run_test": "mvn test",
+  "run_compile": "mvn clean compile"
+}

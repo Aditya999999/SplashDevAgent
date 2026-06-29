@@ -1,0 +1,3 @@
+{
+  "test_file_template": "import org.junit.jupiter.api.Test;\nimport static org.junit.jupiter.api.Assertions.assertTrue;\n\nclass FeatureTest {\n    @Test\n    void testTrue() {\n        assertTrue(true);\n    }\n}\n"
+}

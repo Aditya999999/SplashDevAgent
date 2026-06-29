@@ -1,0 +1,3 @@
+{
+  "development_flow": ["analyse_repo", "write_code", "maven_compile", "junit_test"]
+}

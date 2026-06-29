@@ -1,0 +1,3 @@
+{
+  "development_flow": ["analyse_repo", "write_code", "run_lint", "run_pytest"]
+}

@@ -1,0 +1,3 @@
+{
+  "development_flow": ["analyse_layout", "write_jsx", "run_eslint", "run_jest"]
+}

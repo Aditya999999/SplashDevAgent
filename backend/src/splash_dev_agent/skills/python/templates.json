@@ -1,0 +1,3 @@
+{
+  "test_file_template": "import pytest\n\ndef test_feature():\n    assert True\n"
+}
